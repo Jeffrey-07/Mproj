@@ -1,0 +1,7 @@
+Model,MAE,RMSE,R2
+XGBoost — Heating,0.2824,0.3941,0.9985
+LSTM    — Heating,2.0043,3.0272,0.9121
+Hybrid  — Heating,1.0332,1.5699,0.9764
+XGBoost — Cooling,0.6196,1.0094,0.989
+LSTM    — Cooling,6.8813,7.9986,0.3095
+Hybrid  — Cooling,3.4497,4.0592,0.8222
